@@ -18,17 +18,17 @@
 - [Flexbox froggy](https://flexboxfroggy.com/#es)
 
 ### Colors
-- [colorhunt.co](colorhunt.co)
-- [paletton.com](paletton.com)
+- [colorhunt.co](https://colorhunt.co/)
+- [paletton.com](https://paletton.com/)
 
 ## Design
 - [Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
-- [Design twitter thread](twitter.com/scrimba/status/1231894259650846725)
-- [Refactoring UI](refactoringui.com)
+- [Design twitter thread](https://twitter.com/scrimba/status/1231894259650846725)
+- [Refactoring UI](https://refactoringui.com/)
 - [Best channel for design](https://www.youtube.com/designcourse)
 - [Can't Unsee](https://cantunsee.space/)
 
 ### References
-- [alexplyuto](dribbble.com/alexplyuto)
-- [uplabs.com](uplabs.com)
-- [codemyui.com](codemyui.com)
+- [alexplyuto](https://dribbble.com/alexplyuto)
+- [uplabs.com](https://www.uplabs.com/)
+- [codemyui.com](https://codemyui.com/)
