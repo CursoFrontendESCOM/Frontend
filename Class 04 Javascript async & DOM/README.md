@@ -1,11 +1,13 @@
-# Clase 04: Javascript async & DOM
+# Clase 04: Javascript Async & DOM
 
 ## Slides:
-- [Slides clase 04: javascript async & DOM](https://docs.google.com/presentation/d/1o152mwvslCDZ8lRyIKcG0JgQmJGY5zPwSsLXy9IFlFU/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1o152mwvslCDZ8lRyIKcG0JgQmJGY5zPwSsLXy9IFlFU/edit?usp=sharing)
 
 ## Interesting Links:
-- [Loupe](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
-- [Promesas](shorturl.at/beoLS)
+- [Loupe Event Loop interactive](http://latentflip.com/loupe)
+- [Async & Promises](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
+- [Event Loop](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+- [Promises](shorturl.at/beoLS)
 - [Async-await](shorturl.at/oKX48)
 - [Fetch](shorturl.at/jopIZ)
 
@@ -18,4 +20,4 @@
 
 ## Awesome tutorials
 - [Just Javascript](https://justjavascript.com/)
-- [Javascript FalconMasters](https://youtu.be/xnWtGNiG2lg)
+- [Javascript Falcon Masters](https://youtu.be/xnWtGNiG2lg)
